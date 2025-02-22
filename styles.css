@@ -550,6 +550,11 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+.custom-container {
+  width: 80%; /* Set to your desired width */
+  max-width: 1200px; /* Optional max-width */
+   margin: 0 auto; /* Center the container */
+}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
