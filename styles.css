@@ -10286,19 +10286,7 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
 }
 
-.copyright {
-  background-color: #1a252f;
-}
-
-#podcastImg{
-  width:100%;
-}
-
-#podBlurb{
-  margin-top:15%;
-}
-
-#banner-photo{
-  transition: width 3s;
-  transition-delay: 1s;
+.btn-dark-custom {
+  background-color: #5424d4; 
+    border-color: #5424d4; 
 }
