@@ -10290,6 +10290,7 @@ form .row:first-child .floating-label-form-group {
   background-color: #5424d4; 
   border-color: #5424d4;
   color:white;
+  padding:10px 20px;
 }
 .btn-dark-custom:hover {
   color: white;
