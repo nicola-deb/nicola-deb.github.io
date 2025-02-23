@@ -19,7 +19,7 @@
   --orange: #fd7e14;
   --yellow: #ffc107;
   --green: #28a745;
-  --teal: #b4a7d6;
+  --teal: #5424d4;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
@@ -6104,13 +6104,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #b4a7d6 !important;
+  background-color: #5424d4 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #b4a7d6 !important;
+  background-color: #5424d4 !important;
 }
 
 .bg-secondary {
