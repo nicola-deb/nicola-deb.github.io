@@ -10288,5 +10288,6 @@ form .row:first-child .floating-label-form-group {
 
 .btn-dark-custom {
   background-color: #5424d4; 
-    border-color: #5424d4; 
+  border-color: #5424d4;
+  color:white;
 }
