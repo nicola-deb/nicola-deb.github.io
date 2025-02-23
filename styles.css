@@ -10291,3 +10291,6 @@ form .row:first-child .floating-label-form-group {
   border-color: #5424d4;
   color:white;
 }
+.btn-dark-custom:hover {
+    color: white; 
+}
