@@ -2476,8 +2476,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #5424d4;
-  border-color: #148f77;
+  background-color: #ac9cda;
+  border-color: #ac9cda;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10292,5 +10292,7 @@ form .row:first-child .floating-label-form-group {
   color:white;
 }
 .btn-dark-custom:hover {
-    color: white; 
+  color: white;
+  background-color: #ac9cda; 
+  border-color: #ac9cda;
 }
